@@ -1,0 +1,11 @@
+h1 {
+    color: blue;
+    background-color: red;
+    text-align: center;
+    width: 500px;
+}
+
+li {
+    display: inline-block;
+    background-color: yellow;
+}

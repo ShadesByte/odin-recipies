@@ -5,7 +5,22 @@ h1 {
     width: 500px;
 }
 
-li {
-    display: inline-block;
-    background-color: yellow;
+h2 {
+    color: blueviolet;
+    background-color: darksalmon;
+    width: 200px;
+    text-align: center;
+}
+
+a {
+    outline: 1px solid black;
+}
+
+.finish {
+    color: forestgreen;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.description {
+    color: green;
 }
